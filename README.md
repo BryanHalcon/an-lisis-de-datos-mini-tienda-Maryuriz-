@@ -16,8 +16,11 @@ El presente informe muestra un análisis de datos de ventas, ganancias, gastos y
 OBJETIVOS
 
 •	Identificar patrones y comportamiento de las ventas y ganancias mediante el uso de un análisis descriptivo y ser mostrados mediante gráficos y visualizaciones.
+
 •	Interpretar los resultados del análisis descriptivo para poder así formar un análisis predictivo que permita mitigar riesgos futuros.
+
 •	Crear nuevas estrategias y planes mediante un análisis prescriptivo para poder mejorar las ventas y producción del negocio.
+
 
 METODOLOGÍA
 
@@ -54,7 +57,8 @@ Los productos más vendidos fueron:
 A continuación, se muestra una tabla con los productos mas vendidos por cantidad y nivel de venta:
 
 
-![image](https://github.com/user-attachments/assets/df67c20e-09c4-4c1d-868f-717e1918ebbf)
+![mas_vendidos](https://github.com/user-attachments/assets/e71166fb-d85f-4de8-a7a2-bbf8e72fc51f)
+
 
 
 Fig.2 
@@ -72,7 +76,8 @@ A continuación, se muestra una tabla con los productos con más ganancias y niv
 
 
 
-![image](https://github.com/user-attachments/assets/19eefdd8-ad2e-4544-8ccb-44115d2f5c13)
+![mas_ganancias](https://github.com/user-attachments/assets/13a7804e-3509-4bcf-9149-33d436d704fe)
+
 
 
 Fig.3
@@ -83,7 +88,8 @@ Fig.3
 Los productos fueron clasificados por categoría (bebidas, embutidos, golosinas, primera necesidad, entre otros) la cantoría con mas productos vendidos fue la de Golosinas con 303 productos vendidos seguida de la categoría de Primera Necesidad con 298 productos vendidos y después la de Bebidas con 68 productos vendidos.
 
 
-![image](https://github.com/user-attachments/assets/23d52349-a16c-42c1-a900-a3cfd82b47cb)
+![por_categ](https://github.com/user-attachments/assets/cb36f63e-c9f8-49a5-ad87-d0b8445487d9)
+
 
 Fig.4
 
@@ -94,7 +100,8 @@ Fig.4
 Los tipos de consumidores de la Mini Tienda Maryuriz fueron clasificados por adulto, joven y niño donde la categoría adulto tuvo un porcentaje de 61,9% y un total de productos de 502 consumidos, le sigue la categoría niños con un porcentaje 29,47% y una cantidad de producto de 239 y la categoría joven con un porcentaje de 8,63% y un total de productos de 70.
 
 
-![image](https://github.com/user-attachments/assets/a749aa76-30d5-4450-ac6d-eda11490e3ae)
+![por_consumidor](https://github.com/user-attachments/assets/8139701c-e972-454b-8823-a531063f0771)
+
 
 Fig.5
 
@@ -105,7 +112,8 @@ También se clasifico por Horario las transacción y ventas del negocio donde se
 La categoría Tarde fue la que mas ventas obtuvo con una cantidad de 340 productos vendidos, después la categoría de Mañana obtuvo 252 productos vendidos, Medio-Dia con 148 productos vendidos y la categoría Noche con 71 productos vendidos.
 
 
-![image](https://github.com/user-attachments/assets/9734ab3c-def2-46f7-b025-27c5dd33ea3c)
+![por_horario](https://github.com/user-attachments/assets/ab24b05b-8e83-4066-a683-26cc4ebe934b)
+
 
 Fig.6
 
@@ -113,7 +121,8 @@ Fig.6
 PRODUCTOS MAS VENDIDOS CATEGORIA GOLOSINAS
 
 
-![image](https://github.com/user-attachments/assets/cc198a90-d1db-4655-8c79-37f886264c05)
+![golosinas](https://github.com/user-attachments/assets/0198bcc8-d686-409e-9551-7b37077945ff)
+
 
 Fig.7
 
@@ -121,14 +130,16 @@ Fig.7
 PRODUCTOS MAS VENDIDOS CATEGORIA PRIMERA NECESIDAD
 
 
-![image](https://github.com/user-attachments/assets/8b3c9a07-fddc-4243-bd80-a895be5f6ec5)
+![primera_nec](https://github.com/user-attachments/assets/56aa99c0-141e-4d69-9764-c4e749813fa8)
+
 
 Fig.8
 
 
 PRODUCTOS MAS VENDIDOS CATEGORIA BEBIDAS
 
-![image](https://github.com/user-attachments/assets/f2cec4c6-b2d5-41d8-8742-a6cba82334d7)
+![bebidas](https://github.com/user-attachments/assets/5ff7a804-f9ce-42f5-922f-32cd277b6c5e)
+
 
 Fig.9
 
@@ -142,7 +153,8 @@ El mejor promedio de ganancias fue el sábado 9 de septiembre con un promedio de
 Finalmente, el sábado 21 de septiembre obtuvo un promedio de ganancia de 0,38 y un promedio de cantidad de 1,68.
 
 
-![image](https://github.com/user-attachments/assets/1371f4bb-1003-414b-9404-3a2b72d5fa2f)
+![promedio g y f](https://github.com/user-attachments/assets/0bbc956f-7015-4387-903a-58f6c87049ef)
+
 
 Fig.10
 
@@ -154,7 +166,8 @@ La categoría Primera Necesidad es el valor más atípico en cuestión de gananc
 A continuación, la categoría Golosinas con una ganancia de $37,25 USD y un total de productos vendidos de 303, siendo la categoría que más productos vendió.
 
 
-![image](https://github.com/user-attachments/assets/1d0476ec-21db-45d2-9a6b-382f617a4e9c)
+![dispersión](https://github.com/user-attachments/assets/412ca7e9-a098-4b02-bcf8-1566ff750f2a)
+
 
 Fig.11
 
@@ -163,7 +176,8 @@ Fig.11
 A continuación, se muestra mediante formato matriz los productos con mejor promedio de Ganancias junto con su categoría:
 
 
-![image](https://github.com/user-attachments/assets/8c429d5a-a54e-4d6e-bc99-726828efb19c)
+![mejorprom_gananc](https://github.com/user-attachments/assets/1f4aea3d-73d4-4431-8278-45589ebfae2e)
+
 
 Fig.12
 
@@ -172,7 +186,8 @@ Fig.12
 A continuación, se muestra mediante formato matriz los productos con mejor promedio por Cantidad junto con su categoría:
 
 
-![image](https://github.com/user-attachments/assets/f6a186fe-ac1d-4fc1-b9f4-f4b6d3c5e326)
+![promedio_cantidad](https://github.com/user-attachments/assets/b4fb0196-59d4-4ef9-bec8-6269dfe40ef8)
+
 
 Fig.13
 
@@ -182,7 +197,8 @@ Fig.13
 Las categorías con mejor promedio de ganancias fueron las categorías bebidas y embutidos con 0,75 y la categoría lavado y limpieza con 0,66.
 
 
-![image](https://github.com/user-attachments/assets/1e9af66d-490a-447e-8aaf-7cdb5b1b798e)
+![promedio_ganancia_cat](https://github.com/user-attachments/assets/820c91c1-89b9-4310-b82f-7135d369a17c)
+
 
 Fig.14
 
@@ -192,7 +208,8 @@ Fig.14
 La categoría embutidos tuvo el mejor promedio por cantidad 4,21 de productos vendidos, seguido se encuentra la categoría limpieza con 2,00 y después la categoría golosinas con 1,98.
 
 
-![image](https://github.com/user-attachments/assets/71973546-240e-4bd4-be73-70acd8250826)
+![promedio_cant_cat](https://github.com/user-attachments/assets/538ce73c-f5b2-4750-b570-64019dbbd4cd)
+
 
 
 Fig.15
@@ -203,7 +220,7 @@ Fig.15
 El tipo de consumidor con mejor promedio de ganancia fue la categoría Adulto con el 46,34%, después la categoría Joven con 28,45% y por último la categoría Niños con 25,2%.
 
 
-![image](https://github.com/user-attachments/assets/f8be819f-624a-4c98-8847-6e5f752c97b5)
+![promedio_gan_consumidor](https://github.com/user-attachments/assets/298df44d-ca1f-41c8-ba87-d07030bdcf9d)
 
 Fig.16
 
@@ -213,7 +230,8 @@ Fig.16
 A continuación, se presenta un grafico de anillo con los porcentajes de ganancia por Horario de venta:
 
 
-![image](https://github.com/user-attachments/assets/f5585b8c-67f4-4015-89f6-93da232849e5)
+![graf_anillo](https://github.com/user-attachments/assets/318928c2-a12f-4e44-8bdb-b17646a02011)
+
 
 Fig.17
 
@@ -226,7 +244,8 @@ En la suma o monto total de proveedores se obtuvo $168.02 USD, un numero de prod
 El proveedor con más productos suministrados es Otros (son los proveedores informales que no tienen una marca establecida, sumado a ellos los productos comprados por mercado) con un numero de productos suministrados de 17, después, viene la marca o proveedor Big Cola con 10 productos suministrados, a continuación, el proveedor Fabricación Personal (se trata de los productos suministrados por los dueños de la Mini Tienda “Maryuriz”) con una cantidad de 8 productos fabricados.
 
 
-![image](https://github.com/user-attachments/assets/ca9b4490-0cc5-485b-b9bf-ae48288fc297)
+![prov](https://github.com/user-attachments/assets/87b7cee0-d10e-4614-8a5c-b0bd999dd772)
+
 
 Fig.18
 
@@ -236,7 +255,8 @@ Fig.18
 El proveedor con mayor monto total fue Big Cola con $48.45 USD, a continuación, el proveedor Hularuss con $26.19 USD y después, el de Fabricación Personal con $25.10 USD.
 
 
-![image](https://github.com/user-attachments/assets/dcc6b01e-3312-4721-804e-9b71aeba064c)
+![total_prov](https://github.com/user-attachments/assets/d94174e2-0c92-443a-a40c-12cb49c0edb7)
+
 
 Fig.19
 
@@ -247,7 +267,8 @@ La mini Tienda “Maryuriz” obtuvo gastos propios consumidos del negocio tanto
 A continuación, se presenta una matriz con los productos, suma total y gasto total:
 
 
-![image](https://github.com/user-attachments/assets/096a6a73-7be9-4167-9845-18d5644e30af)
+![gasto_total](https://github.com/user-attachments/assets/e83029bd-54c5-45da-8bab-7ae94634bfd2)
+
 
 Fig.20
 
@@ -258,7 +279,8 @@ En el control de Inventario realizado el sábado 7 de septiembre se obtuvo una c
 El día con menos cantidad de productos en el inventario fue le martes 10 de septiembre con una cantidad de 118 productos, a continuación, se muestra un gráfico de líneas por fecha y cantidad de productos:
 
 
-![image](https://github.com/user-attachments/assets/3d2783c0-cc21-4841-9565-57baf8dafdcc)
+![cant_por_fecha](https://github.com/user-attachments/assets/bf1b977c-60f3-4301-bd7f-f3e96ae1a212)
+
 
 Fig.21
 
